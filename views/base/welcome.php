@@ -1,0 +1,8 @@
+<body>
+    <main class="welcome">
+        <h1>Bienvenue chez le forum de tout et n'importe quoi!</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae doloribus vel molestias dolor animi eveniet odit eum enim! Repudiandae in ratione similique error pariatur hic consectetur officia iure, facere cum quibusdam soluta rerum adipisci. Sint, aliquid dolorum. At, deserunt placeat, tenetur veritatis perferendis consequatur suscipit cupiditate inventore hic quas exercitationem.</p>
+        <h2>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores veniam, temporibus sint dolore laboriosam nostrum?</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere laudantium, eligendi impedit repellendus at dolor odio, perspiciatis nam, ipsa nihil quas iure voluptas laborum sit architecto! Molestias ea fuga repudiandae enim commodi pariatur et at ipsa sequi quaerat? Repellendus, deserunt quae? Impedit vel cum qui eos eligendi iure corrupti obcaecati labore commodi maiores magni consequatur aliquam voluptatem autem quae, omnis repellat sed, deserunt dolores porro eius veritatis. Enim nam porro explicabo impedit inventore vel in dignissimos, quia fugiat dicta. Ea iusto deserunt amet maiores cum necessitatibus voluptate laboriosam, ullam vero commodi perferendis illo ut cumque hic officiis pariatur consequatur quae possimus mollitia ipsam magnam. Hic, quos? Sed veniam, molestiae sequi aut recusandae atque distinctio aliquid praesentium ad nulla rerum qui doloribus explicabo rem hic necessitatibus suscipit? Maxime, quisquam quos voluptate dolores dolorum nulla minus eius tempora, reiciendis quia dignissimos dolore nostrum! Dolor quisquam, assumenda fuga totam soluta culpa maxime! Animi!</p>
+    </main>
+</body>
